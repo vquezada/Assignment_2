@@ -27,10 +27,6 @@ g++ *.cpp
 Refrences:
 Stack overflow (https://stackoverflow.com/questions/44140385/error-some-class-does-not-name-a-type-how-to-resolve-this)
 
-
-Geekforgeeks (https://www.geeksforgeeks.org/constructors-c/)
-Variance
-
 cpluscplus (http://www.cplusplus.com/reference/cstdlib/exit/)
 (http://www.cplusplus.com/reference/cstdlib/EXIT_FAILURE/)
 
