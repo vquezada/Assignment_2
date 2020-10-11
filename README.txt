@@ -4,6 +4,8 @@ Student ID: 002341304
 Programming Assignment 2:C++ Review
 Errors: Random loop sometimes (possible docker error) missing generations.
 
+**USED EXTENTION DAY**
+
 Sources Files:
 Classic.cpp
 Classic.h
